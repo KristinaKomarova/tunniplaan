@@ -1,0 +1,18 @@
+tuge_est2 - õpetaja: Olesia Ojamäe\nklass: B 234
+logistika - õpetaja: Inessa Klimanskaja\nklass: B 002
+matemaatika - õpetaja: Nadeşda Voronova\nklass: B 133
+keel - õpetaja: Ljudmilla Mihhailova\nklass: B 221
+tuge_matem - õpetaja: Nadeşda Voronova\nklass: B 133
+tuge_keemia - õpetaja: Svetlana Pesetskaja\nklass: B 144
+programmeerimine - õpetaja: Marina Oleinik\nklass: E 07
+füüsika - õpetaja: Nadeşda Voronova\nklass: B 133
+tuge_est1 - õpetaja: Olesia Ojamäe\nklass: B 234
+kunstiained - õpetaja: Aleksandra Norkevitğ\nklass: B 232
+kehaline kasvatus - õpetaja: Maksim Maksõmiv\nklass: Võimla A
+inglise keel 1 - õpetaja: Olga Poskotinova\nklass: B 138
+arenduskeskkonna loomine 2 - õpetaja: Irina Merkulova\nklass: E 10
+arenduskeskkonna loomine 1 - õpetaja: Irina Merkulova\nklass: E 10
+eesti keel 2 - õpetaja: Olesia Ojamäe\nklass: B 234
+rühmajuhataja tund - õpetaja: Alina Laaneväli-Toots\nklass: B 236
+eesti keel 1 - õpetaja: Alina Laaneväli-Toots\nklass: B 236
+inglise keel 2 - õpetaja: Olga Borodina\nklass: B 227
